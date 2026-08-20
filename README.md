@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Shubhi 👋
 
-<!--
-**shubhiss1999-a11y/Shubhiss1999-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | Python Learner 📊
 
-Here are some ideas to get you started:
+- 📊 Currently learning: Python, Pandas, NumPy, Data Visualization
+- 🌱 I’m exploring Data Analytics & Data Cleaning
+- 📈 Working on: Excel | SQL | Python for Data Analysis
+- 🎯 Goal: Become a skilled Data Analyst
+- 📫 Connect with me: [shubhi.ss1999@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+`Python` `Pandas` `NumPy` `Matplotlib` `SQL` `Excel` `GitHub`
+
+### 📊 GitHub Stats
+Learning in public - Watch my journey in Data Analytics!
